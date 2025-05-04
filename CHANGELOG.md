@@ -1,6 +1,6 @@
 # Changelog — ez's Additional Character Names
 
-## v1.0.2 (2024-05-04)
+## v1.0.2 (2025-05-04)
 - Updated for Starsector version 0.98a  
 - Added ~900 new names, bringing total to over 2,600  
 - Expanded future-style names, including sci-fi and space opera influences  
