@@ -1,0 +1,17 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/YOUR_USERNAME/ez_additional_names/main/ez_additional_names.version",
+
+  "modName": "ez's Additional Character Names",
+
+  "modVersion": {
+    "major": 1,
+    "minor": 0,
+    "patch": 2
+  },
+
+  "modThreadId": 24824,
+
+  "directDownloadURL": "https://drive.google.com/uc?id=1RD-TiRGJ8mNwGWH4ScJHEWbe4lVGGMnA&export=download",
+
+  "changelogURL": "https://raw.githubusercontent.com/YOUR_USERNAME/ez_additional_names/main/CHANGELOG.md"
+}
