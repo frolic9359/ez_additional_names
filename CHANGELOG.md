@@ -10,13 +10,6 @@
 
 ## v1.0.1 (2023-05-19)
 - Updated for Starsector version 0.96a  
-- Fixed some gender inconsistencies  
-- Increased variety in fringe/future/pirate categories  
-- Minor tag cleanups and typo fixes  
 
 ## v1.0.0 (2022-06-30)
 - Initial release  
-- Added ~1,700 first names and ~1,000 last names  
-- Names organized by faction-themed categories: luddic, pirate, world, future, myth, etc.  
-- Fully integrated with character creation and NPC generation  
-- Pirate names: 400+ entries, including callsigns, grim nicknames, and outlaw aliases  
