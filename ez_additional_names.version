@@ -1,5 +1,5 @@
 {
-  "masterVersionFile": "https://raw.githubusercontent.com/YOUR_USERNAME/ez_additional_names/main/ez_additional_names.version",
+  "masterVersionFile": "https://raw.githubusercontent.com/frolic9359/ez_additional_names/refs/heads/main/ez_additional_names.version",
 
   "modName": "ez's Additional Character Names",
 
@@ -13,5 +13,5 @@
 
   "directDownloadURL": "https://drive.google.com/uc?id=1RD-TiRGJ8mNwGWH4ScJHEWbe4lVGGMnA&export=download",
 
-  "changelogURL": "https://raw.githubusercontent.com/YOUR_USERNAME/ez_additional_names/main/CHANGELOG.md"
+  "changelogURL": "https://raw.githubusercontent.com/frolic9359/ez_additional_names/refs/heads/main/CHANGELOG.md"
 }
