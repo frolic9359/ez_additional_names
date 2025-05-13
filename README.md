@@ -7,12 +7,7 @@ Compatible with version 0.98a and all major mod managers.
 
 ## 📦 What It Does
 
-Adds over **2,600** hand-crafted names to Starsector's in-game name generator, including:
-
-- ~1,700 first names  
-- ~1,000 last names  
-- 160+ dual-use names (first or last)  
-- 409 pirate-only entries with custom nicknames, titles, and callsigns
+Adds over **2,600** hand-crafted names to Starsector's in-game name generator.
 
 Names are tagged by in-game **faction category**, so you'll see:
 
